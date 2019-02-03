@@ -1,7 +1,8 @@
-package ua.ck.daggerapp
+package ua.ck.daggerapp.ui.main
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import ua.ck.daggerapp.R
 
 class MainActivity : AppCompatActivity() {
 
